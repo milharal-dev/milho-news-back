@@ -51,7 +51,7 @@ public class Controller {
         return feedItems;
     }
 
-    @GetMapping("/topRelevantPosts")
+    @GetMapping("/RelevantPotopsts")
     public List<Post> getTopRelevantPosts() throws IOException, InterruptedException {
         List<FeedItem> feedItems = getFeed();
 
