@@ -20,4 +20,6 @@ Se você deseja contribuir com o projeto, siga os seguintes passos:
 
 ## Contribuidores
 @bmsrk<br>
-@pato
+- [Bruno](https://bsky.app/profile/enrichthesoil.bsky.social)
+- [Pato](https://bsky.app/profile/patinho.tech)
+
