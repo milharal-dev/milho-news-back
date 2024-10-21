@@ -19,7 +19,6 @@ Se você deseja contribuir com o projeto, siga os seguintes passos:
 - Abra um Pull Request.
 
 ## Contribuidores
-@bmsrk<br>
 - [Bruno](https://bsky.app/profile/enrichthesoil.bsky.social)
 - [Pato](https://bsky.app/profile/patinho.tech)
 
